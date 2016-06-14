@@ -1,0 +1,20 @@
+{
+  "name": "klog",
+  "version": "1.0.0",
+  "description": "log made in koa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "koa",
+    "log"
+  ],
+  "author": "liucr@liepin.com",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^1.2.0",
+    "path": "^0.12.7"
+  }
+}
