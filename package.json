@@ -11,7 +11,7 @@
     "koa",
     "log"
   ],
-  "author": "liucr@liepin.com",
+  "author": "blankoff@126.com",
   "license": "ISC",
   "dependencies": {
     "koa": "^1.2.0",
